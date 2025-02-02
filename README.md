@@ -1,0 +1,2 @@
+# lokpriyaadmission
+online admission form
